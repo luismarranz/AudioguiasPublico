@@ -1,0 +1,16 @@
+rutas:
+  - ruta:
+      id: "pardo_01"
+      nombre: "Senda de la Ribera y Encinar"
+      distancia_total: "12.5 km"
+      inicio_lat: 40.752877
+      inicio_lng: -3.993342
+      foto_portada: "assets/images/EmbalseBarranca.jpg"
+      pdf_actividad: "assets/docs/actividad_pardo1.pdf"
+      fichero_gpx: "assets/ruta_pardo1.gpx"
+      # Este es el dato que acabamos de agregar para vincular las paradas
+      fichero_recursos: "assets/recursos_ruta.yaml"
+      descripcion: |
+        El Monte de El Pardo es considerado el bosque mediterráneo más importante de la Comunidad de Madrid. 
+        Esta ruta circular combina la frescura de la ribera del río Manzanares con la majestuosidad de sus encinares centenarios.
+        A lo largo del camino, es muy frecuente avistar gamos y ciervos que campan en libertad.
