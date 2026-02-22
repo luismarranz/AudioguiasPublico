@@ -1,7 +1,7 @@
 rutas:
   - ruta:
       id: "pardo_01"
-      nombre: "Senda de la Ribera y Encinar"
+      nombre: "Monte del Pardo - Ruta de los miradores"
       distancia_total: "12.5 km"
       inicio_lat: 40.752877
       inicio_lng: -3.993342
@@ -11,6 +11,12 @@ rutas:
       # Este es el dato que acabamos de agregar para vincular las paradas
       fichero_recursos: "assets/recursos_ruta.yaml"
       descripcion: |
-        El Monte de El Pardo es considerado el bosque mediterráneo más importante de la Comunidad de Madrid. 
-        Esta ruta circular combina la frescura de la ribera del río Manzanares con la majestuosidad de sus encinares centenarios.
-        A lo largo del camino, es muy frecuente avistar gamos y ciervos que campan en libertad.
+        Estamos en el Monte de El Pardo, uno de los grandes encinares mediterráneos que aún sobreviven en Europa occidental, a apenas unos kilómetros del centro de Madrid.
+
+        Una expresión es clave para entender este paisaje: aridez estival. En el clima mediterráneo casi nunca llueve en los meses de verano. Esto, que es tan útil para las vacaciones de playa, supone unas condiciones extremas para las plantas. Durante semanas, a veces meses, el agua simplemente no llega.
+
+        A lo largo del camino, fíjate en las encinas. Observa sus hojas: pequeñas, duras, persistentes todo el año. No es casualidad. Son hojas preparadas para perder la menor cantidad de agua posible bajo el sol del verano. Este bosque no es exuberante; es resistente.
+
+        Que hoy podamos recorrer un encinar continuo como este tampoco se debe solo a las condiciones naturales. Durante siglos, El Pardo fue coto vinculado a la Corona. Esa historia limitó su transformación agrícola y la expansión urbana, y permitió que el bosque mantuviera buena parte de su estructura.
+
+        Esa continuidad lo convierte en un auténtico refugio para la fauna. Entre las especies más valiosas que encuentran aquí territorio está el Águila imperial ibérica, una de las rapaces más escasas de Europa. Tal vez no la veamos, pero saber que este cielo forma parte de su territorio cambia la manera de caminar.

@@ -1,14 +1,30 @@
 "1":
-  titulo: "Embalse de El Pardo"
+  titulo: "Riesgo"
   descripcion: |
-    El Monte de El Pardo es un gran bosque mediterráneo, uno de los mejor conservados de Europa, situado al norte de Madrid, con más de 15.000 hectáreas, considerado el pulmón verde de la capital y un espacio natural de extraordinario valor ecológico y cultural.
-    
-    Este entorno privilegiado fue durante siglos un coto de caza reservado exclusivamente para la monarquía española, lo que ha permitido que su biodiversidad se mantenga intacta frente al avance urbanístico de la gran ciudad. Entre sus encinas centenarias y sus quejigos, habita una de las colonias más importantes de águila imperial ibérica, una especie en peligro de extinción.
-    
-    El río Manzanares cruza este paraje antes de llegar al centro de Madrid, formando a su paso el Embalse de El Pardo. Este cuerpo de agua no solo sirve como reserva hídrica, sino que es un punto de descanso vital para miles de aves migratorias que viajan cada año a través de la península.
-    
-    Caminar por sus senderos permite avistar con relativa facilidad ciervos, gamos y jabalíes, especialmente durante las primeras horas de la mañana o al atardecer. Es, sin duda, un enclave único que combina historia, protección ambiental y una belleza paisajística que sorprende por su proximidad a la Puerta del Sol.
-    
-    Y, por supuesto, es un lugar muy mono para pasear y disfrutar de la naturaleza en estado puro sin salir de la capital.
-  foto: "assets/images/EmbalseBarranca.jpg"
+    Cuidado, hay que cruzar la carretera y no hay paso de peatones. Mira a ambos lados, asegúrate de que no viene ningún coche y cruza con precaución. 
+    Después hay que seguir por el margen de la carretera unos metros
+  foto: "assets/images/CruceCarretera.jpg"
+"2":
+  titulo: "Monte Bajo"
+  descripcion: |
+    En esta primera zona del recorrido notarás que las encinas no se parecen en nada a esas encinas monumentales típicas de otras latitudes, solitarias y con copas amplias, como en las dehesas del suroeste. Aquí son más bajas, más densas, casi apretadas unas contra otras.
+
+    Eso tiene una explicación histórica muy concreta. Este encinar fue aprovechado durante siglos como monte bajo.
+
+    La encina tiene una gran capacidad de rebrote. Cuando se corta, vuelve a emitir tallos desde la base y desde la raíz. Se talaban los troncos para leña y para hacer carbón vegetal, y del tocón surgían varios brotes nuevos. En lugar de dejar crecer un único tronco grueso, se permitía que salieran muchos pies finos, que se volvían a cortar cada pocos años.
+
+    Si observas con atención, verás cepas de las que nacen varios troncos. No son árboles distintos. Es la misma encina, creciendo una y otra vez desde su base.
+
+    Un encinar así, denso y con muchos tallos finos, ofrece un tipo de refugio distinto al de un monte alto. Más cobertura baja, menos grandes troncos. La forma del bosque también decide quién puede vivir en él.
+  foto: "assets/images/MonteBajo.jpg"
+  audio: "audios/parada_1.mp3"
+"3":
+  titulo: "Resalvo"
+  descripcion: |
+    Este árbol es lo que se llama un resalvo, un pie que se dejaba crecer más tiempo que el resto dentro del monte bajo.
+
+    La razón era práctica: además de combustible y para producción de bellotas, hacía falta de vez en cuando madera más gruesa y resistente, capaz de soportar peso o durar más años en una construcción o en una herramienta.
+
+    Por eso, entre encinas bajas y densas, aparecen ejemplares como este. Forman parte del mismo sistema de aprovechamiento, solo que creciendo a otro ritmo.
+  foto: "assets/images/Resalvo.jpg"
   audio: "audios/parada_1.mp3"
